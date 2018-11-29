@@ -1,0 +1,6 @@
+﻿'DebugTest2.exe' (CLR v4.0.30319: DefaultDomain): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'DebugTest2.exe' (CLR v4.0.30319: DefaultDomain): 'C:\Users\Owner\source\repos\DebugTest2\DebugTest2\bin\Release\DebugTest2.exe' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+モジュール 'DebugTest2.exe' のシンボルが読み込まれませんでした。
+
+1。デバッグ ビルド構成を使用するか、[マイ コードのみを有効にする] デバッグ オプションを無効にします。
+2。デバッグ オプションの下の [シンボル] 設定を確認します。プログラム '[5612] DebugTest2.exe' はコード 0 (0x0) で終了しました。
