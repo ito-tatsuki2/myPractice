@@ -1,4 +1,7 @@
 ﻿using System;
+/*
+ * Visual Studioから変更
+ * /
 
 namespace BankAccountNS
 {
